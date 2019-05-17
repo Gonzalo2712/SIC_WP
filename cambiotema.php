@@ -1,6 +1,6 @@
 <?php # -*- coding: utf-8 -*-
 // Plugin Name: Cambio tema ULE
-// Version: 1.0.0
+// Version: 1.0.1
 //add_filter( 'template_directory', 't5_switch_theme', 10, 3 );
 
 function switch_all_multisite_themes() {
